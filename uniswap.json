@@ -1,0 +1,662 @@
+[
+  {
+    "name": "USDT-ETH",
+    "address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852"
+  },
+  {
+    "name": "USDT-HKMT",
+    "address": "0xf52f433b79d21023af94251958bed3b64a2b7930"
+  },
+  {
+    "name": "USDT-USDC",
+    "address": "0x3041cbd36888becc7bbcbc0045e3b1f144466f5f"
+  },
+  {
+    "name": "USDT-FNK",
+    "address": "0x61b62c5d56ccd158a38367ef2f539668a06356ab"
+  },
+  {
+    "name": "USDT-DOGE",
+    "address": "0xfcd13ea0b906f2f87229650b8d93a51b2e839ebd"
+  },
+  {
+    "name": "USDT-DAI",
+    "address": "0xb20bd5d04be54f870d5c0d3ca85d82b34b836405"
+  },
+  {
+    "name": "USDT-ZKS",
+    "address": "0xd3d8c734f06229e36febd07505d8f57b7b78af7c"
+  },
+  {
+    "name": "USDT-UST",
+    "address": "0xc50ef7861153c51d383d9a7d48e6c9467fb90c38"
+  },
+  {
+    "name": "USDT-PBTC35A",
+    "address": "0x5b1e45ca08fa4d65aa7fdcf9e116990fb7fce73b"
+  },
+  {
+    "name": "USDT-XFIT",
+    "address": "0xf8d99cf7046dedcb1dc8cfc309aa96946c9b9db2"
+  },
+  {
+    "name": "USDT-PETH18C",
+    "address": "0x2dc9d00da9542f91d5391be53ed1d58a04ec1c07"
+  },
+  {
+    "name": "USDT-ALBT",
+    "address": "0x1cd926f3e12f7b6c2833fbe7277ac53d529a794e"
+  },
+  {
+    "name": "USDT-MTLX",
+    "address": "0x1a57ec5459928389fbb5612ff2a5e0b534fd9e2e"
+  },
+  {
+    "name": "USDT-LUNA",
+    "address": "0x67b3825348521b94828127f1ee31da80ee67d285"
+  },
+  {
+    "name": "USDT-OUSD",
+    "address": "0xcc01d9d54d06b6a0b6d09a9f79c3a6438e505f71"
+  },
+  {
+    "name": "USDT-HORD",
+    "address": "0xde6faedbcae38eec6d33ad61473a04a6dd7f6e28"
+  },
+  {
+    "name": "USDT-ZUSD",
+    "address": "0x1197774e49f98b24c7afa88f0eb6fbd0e0786a0a"
+  },
+  {
+    "name": "USDT-FRONT",
+    "address": "0x01388f9242964e2aaadef6379eb92276acb5520e"
+  },
+  {
+    "name": "USDT-FEAR",
+    "address": "0xe53533f78787c63735c77c9e2f9c60081b942cdb"
+  },
+  {
+    "name": "USDT-TCR",
+    "address": "0x420725a69e79eeffb000f98ccd78a52369b6c5d4"
+  },
+  {
+    "name": "USDT-XCAD",
+    "address": "0x6f118ecebc31a5ffe49b87c47ea80f93a2af0a8a"
+  },
+  {
+    "name": "USDT-O3",
+    "address": "0x4b8852e4747b8a7d4caf0440e4e3397032a6723d"
+  },
+  {
+    "name": "USDT-GAME",
+    "address": "0x0cfb06414c6d9790bc661230dba0b24060808bf4"
+  },
+  {
+    "name": "USDT-BDT",
+    "address": "0x0e20642b32567f2dc74f149663fc474f534e1d5a"
+  },
+  {
+    "name": "USDT-BUSD",
+    "address": "0xa0abda1f980e03d7eadb78aed8fc1f2dd0fe83dd"
+  },
+  {
+    "name": "USDT-REI",
+    "address": "0xdfb8824b094f56b9216a015ff77bdb056923aaf6"
+  },
+  {
+    "name": "USDT-EURXB",
+    "address": "0x8d8da72161da2d800ebdd2a316214eac7c32fca0"
+  },
+  {
+    "name": "USDT-NBNG",
+    "address": "0x43747d31fc178d626047c5b4346a251418167a1a"
+  },
+  {
+    "name": "USDT-XBE",
+    "address": "0x5551c4812a89bf840e3da6debd4cb1a2d5322e3a"
+  },
+  {
+    "name": "USDT-ANB",
+    "address": "0x6d7a7b251a6cac43f1798494d847e6d333f9ffca"
+  },
+  {
+    "name": "USDT-VT",
+    "address": "0x63c15476fc7c95b4d9023889e34ac491727c7220"
+  },
+  {
+    "name": "USDT-JINDOGE",
+    "address": "0x5551c4812a89bf840e3da6debd4cb1a2d5322e3a"
+  },
+  {
+    "name": "USDT-NFTS",
+    "address": "0x05636a7c0544ab05e179a552dcb811bdbf304f38"
+  },
+  {
+    "name": "USDT-WTON",
+    "address": "0x5811ec00d774de2c72a51509257d50d1305358aa"
+  },
+  {
+    "name": "USDT-SPDR",
+    "address": "0x873823930b78e1c1c3d9674b5cb107dd2d211bf0"
+  },
+  {
+    "name": "USDT-DIGS",
+    "address": "0x078e0bca688615c1c4f0c9d4baf6fd8aee4f42dd"
+  },
+  {
+    "name": "USDT-SNP",
+    "address": "0x0b41854f5d251c12b1de6a88dd4292944f04305c"
+  },
+  {
+    "name": "USDT-CRU",
+    "address": "0x576cea6d4461fcb3a9d43e922c9b54c0f791599a"
+  },
+  {
+    "name": "USDT-IOI",
+    "address": "0xf6887ad6f3b342840dbea138e8003f2ca14f4500"
+  },
+  {
+    "name": "USDT-EPARA",
+    "address": "0xec5c7dba9911c2e6b21337760e7c6ffdfaa16a88"
+  },
+  {
+    "name": "USDT-MARS",
+    "address": "0x64b91b92240bc1901855dd55ae632addb650d089"
+  },
+  {
+    "name": "USDT-DON",
+    "address": "0x91b1b853c1426c4aa78cac984c6f6dd1e80b0c4f"
+  },
+  {
+    "name": "USDT-NKN",
+    "address": "0x7f75f0aed3c4158b91ad3641afa6e8d035311862"
+  },
+  {
+    "name": "USDT-BEL",
+    "address": "0xf0d1109e723cb06e400e2e57d0b6c7c32bedf61a"
+  },
+  {
+    "name": "USDT-ERC20-EPK",
+    "address": "0x66e32d1b776a43935ed20e8dc39a27a140d31c8f"
+  },
+  {
+    "name": "USDT-AGIX",
+    "address": "0x4bb0925fa50da9b4c8936869433b48e78ccc5c13"
+  },
+  {
+    "name": "USDT-QGD",
+    "address": "0x8af91a49dc547d8dc52d65393671ddd1c6ddcd24"
+  },
+  {
+    "name": "USDT-DYP",
+    "address": "0x76911e11fddb742d75b83c9e1f611f48f19234e4"
+  },
+  {
+    "name": "USDT-CHP",
+    "address": "0xe449446b04266f1155b310ab7619964288df49b6"
+  },
+  {
+    "name": "USDT-FORM",
+    "address": "0x31cf0327782a22958e7361f75ed86a7b69eb0aa7"
+  },
+  {
+    "name": "USDT-HUSD",
+    "address": "0xe53bfffd5d9a53250a3f30409fdc463cb5ed05e1"
+  },
+  {
+    "name": "USDT-WOXEN",
+    "address": "0xbaeca7c35346a8d31811ef971f38603012a12c1e"
+  },
+  {
+    "name": "USDT-WDOGE",
+    "address": "0xd5ceac74e81e81995f041fd268453a6127f52a35"
+  },
+  {
+    "name": "USDT-ARPA",
+    "address": "0x9f624b25991b99d7b14d6740a9d581dd77980808"
+  },
+  {
+    "name": "USDT-SDAO",
+    "address": "0x3a925503970d40d36d2329e3846e09fcfc9b6acb"
+  },
+  {
+    "name": "USDT-DAO1",
+    "address": "0xf94556124786e08171d278a75cf1b46ee9592227"
+  },
+  {
+    "name": "USDT-FORTH",
+    "address": "0x1812ef69e1753f908229df40d304a5fbdcd52dd3"
+  },
+  {
+    "name": "USDT-ALICE",
+    "address": "0xde93684627d4e34d6ef96adf5bcabf10bbd8dd81"
+  },
+  {
+    "name": "USDT-SPWN",
+    "address": "0xb5b51148a602afb716e241273adbce5558540293"
+  },
+  {
+    "name": "USDT-REEF",
+    "address": "0xea02e0f8f470de1107cb336f827c4192117574bb"
+  },
+  {
+    "name": "USDT-LEC",
+    "address": "0xfdc5088412e5f7187e3ee8619542f33ed01a8f05"
+  },
+  {
+    "name": "USDT-PRE",
+    "address": "0x5f094191ddad05c5b6ddfa992a4f49d8d679290d"
+  },
+  {
+    "name": "USDT-LKSC",
+    "address": "0x073f095f0d69f9269bf9ffdb9934f27539ca3cf8"
+  },
+  {
+    "name": "USDT-MTL",
+    "address": "0xd873f9187ed9166118b10f61ff85c5005709670e"
+  },
+  {
+    "name": "USDT-BAMBOO",
+    "address": "0xa7b0d77e322f7643f6eb7c8bb4ff83e49c6bdee8"
+  },
+  {
+    "name": "USDT-ANTC",
+    "address": "0xe41ca68a146a9598e88cea57b95317d6082372ad"
+  },
+  {
+    "name": "USDT-NOW",
+    "address": "0xfb9ec354efc86167728b4eadd854853f410b7660"
+  },
+  {
+    "name": "USDT-ZERO",
+    "address": "0xcae645be1a8428e886cdbe8762825b8a7d4a740d"
+  },
+  {
+    "name": "USDT-FEY",
+    "address": "0xdeea5c497b7557e8742f2707549e8b2f9f09594c"
+  },
+  {
+    "name": "USDT-GFT",
+    "address": "0xea4420182d5b4038ce500380d2cea4bfcd92df97"
+  },
+  {
+    "name": "USDT-SHROOM",
+    "address": "0x20b2ef197302be35c4c08f466a646e5da75a86e3"
+  },
+  {
+    "name": "USDT-FL",
+    "address": "0x6e35996ae06c45e9de2736c44df9c3f1aab781af"
+  },
+  {
+    "name": "USDT-RCHART",
+    "address": "0xc460d84780ad9c7dcbc495229e80c925160fc0b1"
+  },
+  {
+    "name": "USDT-PASS",
+    "address": "0x71a1eee2c5e4e8adeb9cdb0c304668da79aff6a1"
+  },
+  {
+    "name": "USDT-ETH(3000)",
+    "address": "0x14094f829a710075ae6a43f5c62f139049dd486f"
+  },
+  {
+    "name": "USDT-BST",
+    "address": "0x110591745e4f4e36906d4628abc0dd45f064a4c6"
+  },
+  {
+    "name": "USDT-AXIS",
+    "address": "0x810425f16407ed175a0a62ea084f83a1bc420031"
+  },
+  {
+    "name": "USDT-JT",
+    "address": "0x35ae9ef4e328f1ad0332e991bcaca8e461e88fef"
+  },
+  {
+    "name": "USDT-ZRX",
+    "address": "0x35ae9ef4e328f1ad0332e991bcaca8e461e88fef"
+  },
+  {
+    "name": "USDT-FEY",
+    "address": "0xdeea5c497b7557e8742f2707549e8b2f9f09594c"
+  },
+  {
+    "name": "USDT-SCUSD",
+    "address": "0xdf766c84d1fa1fe7e169be72a84c029828472311"
+  },
+  {
+    "name": "USDT-SG",
+    "address": "0xdf766c84d1fa1fe7e169be72a84c029828472311"
+  },
+  {
+    "name": "USDT-BSBYAM",
+    "address": "0x65e6ebded11eb66c761f9261e2c4585fc42c33e0"
+  },
+  {
+    "name": "USDT-FIR",
+    "address": "0x9b83dce2507fb3d54a68d680c552d337a4e37e89"
+  },
+  {
+    "name": "USDT-FLIXX",
+    "address": "0x30885e07f770d5d81d770c6adb5b440fddef97cd"
+  },
+  {
+    "name": "USDT-HPLUS",
+    "address": "0xe9806473ab7639de793bdad75929fda5935a5f56"
+  },
+  {
+    "name": "USDT-WSSS",
+    "address": "0xc75e5a8d6f5be8e7851da31e9de16b7275a45cf8"
+  },
+  {
+    "name": "USDT-PANDA",
+    "address": "0x87d6100b9184d382bc438a1c261be6f3b32db71e"
+  },
+  {
+    "name": "USDT-BMT",
+    "address": "0x9d31efea8110375dd1184ee8a22b3bc411eb49cf"
+  },
+  {
+    "name": "USDT-XBTC",
+    "address": "0xfbaf7519240032d8fa037b061494f76bee4530c6"
+  },
+  {
+    "name": "USDT-VMSC",
+    "address": "0xb1b2363c0a555daa88815404419c418725d50b18"
+  },
+  {
+    "name": "USDT-USDE",
+    "address": "0xe3d46ca8cd8a163875f85923ee0429ee76112be5"
+  },
+  {
+    "name": "USDT-HOGE",
+    "address": "0xb4a890fcfd936a338f703b502ccdf8892d5f6aec"
+  },
+  {
+    "name": "USDT-LUCKY",
+    "address": "0x324a59fa6e055d3424623b51874d5c7847e7d38d"
+  },
+  {
+    "name": "USDT-FERRAI",
+    "address": "0x5521950154f5e0e0e980763e5a515719b14a8eb7"
+  },
+  {
+    "name": "USDT-GENE",
+    "address": "0x08c42506d5ff7a983ae7be2e5a380a42508b698c"
+  },
+  {
+    "name": "USDT-WPRCY",
+    "address": "0x1935f0b3b0d39e333fc2d719e1e307e2e5b3d253"
+  },
+  {
+    "name": "USDT-ICE",
+    "address": "0xf362dc4bb0d5bfef95d65434a7168b8ae056d8d6"
+  },
+  {
+    "name": "USDT-VTD",
+    "address": "0xe6f3fa003ea33962a4b71095165375bb9eb42a4c"
+  },
+  {
+    "name": "USDT-DBN",
+    "address": "0x4d5bd4d028da1067b995ba918805197165b1a28b"
+  },
+  {
+    "name": "USDT-DBN",
+    "address": "0x4d5bd4d028da1067b995ba918805197165b1a28b"
+  },
+  {
+    "name": "BUSD-USDC",
+    "address": "0x524847c615639e76fe7d0fe0b16be8c4eac9cf3c"
+  },
+  {
+    "name": "BUSD-ETH",
+    "address": "0xc2923b8a9683556a3640ccc2961b2f52b5c4459a"
+  },
+  {
+    "name": "BUSD-DAI",
+    "address": "0x66ddd3b7d017a769cc0c702b937c230ebd3c72d6"
+  },
+  {
+    "name": "USDC-ETH",
+    "address": "0xc654cc38492f75ddae2ce627dab208865c542dcc"
+  },
+  {
+    "name": "DAI-ETH",
+    "address": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11"
+  },
+  {
+    "name": "DAI-USDC",
+    "address": "0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5"
+  },
+  {
+    "name": "DAI-USDT",
+    "address": "0xb20bd5d04be54f870d5c0d3ca85d82b34b836405"
+  },
+  {
+    "name": "DAI-HEZ",
+    "address": "0x9bd82673c50acb4a3b883d61e070a3c8d9b08e10"
+  },
+  {
+    "name": "DAI-BAC",
+    "address": "0xd4405f0704621dbe9d4dea60e128e0c3b26bddbd"
+  },
+  {
+    "name": "DAI-WBTC",
+    "address": "0x231b7589426ffe1b75405526fc32ac09d44364c4"
+  },
+  {
+    "name": "DAI-RAI",
+    "address": "0x4a0ea6ad985f6526de7d1ade562e1007e9c5d757"
+  },
+  {
+    "name": "DAI-USD",
+    "address": "0x1d1126cc2c77384448913b41fbf308563aae1f16"
+  },
+  {
+    "name": "DAI-ARMOR",
+    "address": "0xfc0dd985f6de9c2322ebd97c3422b0857c4d78c7"
+  },
+  {
+    "name": "DAI-BASV2",
+    "address": "0x3e78f2e7dade07ea685f8612f00477fd97162f1e"
+  },
+  {
+    "name": "DAI-RZRV",
+    "address": "0x93ffcff38010295166b4f3aa975d2c931acbd9f8"
+  },
+  {
+    "name": "DAI-PCHS",
+    "address": "0x637b9a04c2802b1e2bb073886c531bad9a2a9fb3"
+  },
+  {
+    "name": "DAI-CORN",
+    "address": "0xba9a5e027d24dc433bbb0da2b28a52e148aa4fff"
+  },
+  {
+    "name": "DAI-DENA",
+    "address": "0x44fa3d570f1838dcf079ac7d19b8f2d23e2b889f"
+  },
+  {
+    "name": "DAI-HOPR",
+    "address": "0x92c2fc5f306405eab0ff0958f6d85d7f8892cf4d"
+  },
+  {
+    "name": "DAI-KXUSD",
+    "address": "0x672c973155c46fc264c077a41218ddc397bb7532"
+  },
+  {
+    "name": "DAI-DEC",
+    "address": "0x1c19fd9bd77d4383c66d9a6ecf1bc67d462c477f"
+  },
+  {
+    "name": "DAI-SLICE",
+    "address": "0x896eebeb02f81445f5a88ff7884af8d937294ee8"
+  },
+  {
+    "name": "DAI-GLM",
+    "address": "0x0ddcda72833e8cbc4f94c24bc7a1baf14853e76e"
+  },
+  {
+    "name": "DAI-REQ",
+    "address": "0x5522c339d35a6c3e5f328c8746bdf88f599dab83"
+  },
+  {
+    "name": "DAI-DHS",
+    "address": "0xd141c76ed0c9e4676a9c14ed1d525864c22ce894"
+  },
+  {
+    "name": "DAI-UBI",
+    "address": "0xea7952fac7ff6e997d895c1566599b86b91444c0"
+  },
+  {
+    "name": "DAI-PIOU",
+    "address": "0xb805403018300c2058619fa3ea2479f8e00bb103"
+  },
+  {
+    "name": "DAI-REL",
+    "address": "0xed9ca2a60d683c9ba04fd2bc043aad76a0afc59f"
+  },
+  {
+    "name": "DAI-OWL",
+    "address": "0x17fbba7388302f835ba2ded8d18b5248d0ad3d45"
+  },
+  {
+    "name": "DAI-ICAP",
+    "address": "0xcb57a7eac6ad4ba80e48edea2cb426d6576ab681"
+  },
+  {
+    "name": "DAI-TLR",
+    "address": "0x9d180c1baf1de69e9b922625284e1a2211a6ebea"
+  },
+  {
+    "name": "DAI-ONC",
+    "address": "0x3ba3c8fb0142a6f2bf3e2990a08957866203f961"
+  },
+  {
+    "name": "DAI-ABQ",
+    "address": "0xeac235f217e57966f871308f5ad35008df3f0813"
+  },
+  {
+    "name": "DAI-USE",
+    "address": "0x6cc77142f4da3c8e00f0c3383a648f8488ebc937"
+  },
+  {
+    "name": "DAI-ANC",
+    "address": "0xd1da2d5a00766cb0bf5d62b83915d666bb44cb70"
+  },
+  {
+    "name": "DAI-ZAI",
+    "address": "0x323e054a6dd8762011d60993f51e23e2096b221f"
+  },
+  {
+    "name": "DAI-ETHC",
+    "address": "0xdb312a0952705484f3c685074f547c877eaa244b"
+  },
+  {
+    "name": "DAI-SPH",
+    "address": "0xc2963865fc947be4de733dd30e1d55d435eddee5"
+  },
+  {
+    "name": "DAI-UNI",
+    "address": "0xf00e80f0de9aea0b33aa229a4014572777e422ee"
+  },
+  {
+    "name": "DAI-ISLA",
+    "address": "0xf3933a6a82fba8a349a7124c8d8226d7c4d7b6cb"
+  },
+  {
+    "name": "DAI-ZERO",
+    "address": "0xbacede95494aa52ee40085037303b23069e39718"
+  },
+  {
+    "name": "DAI-DEBASE",
+    "address": "0xe98f89a2b3aecdbe2118202826478eb02434459a"
+  },
+  {
+    "name": "DAI-OOG",
+    "address": "0xacf7f986b39b351ae210da9886c003e01a18560c"
+  },
+  {
+    "name": "DAI-PPM",
+    "address": "0x45034ca0246ab238439be3b1b96b02f8fdf46645"
+  },
+  {
+    "name": "DAI-ONS",
+    "address": "0x896dc58182c3b78598c11aa10f940257a1ce32b1"
+  },
+  {
+    "name": "DAI-NUARS",
+    "address": "0x2edfe4c02acb525ba512922aceae3f572fe5ea04"
+  },
+  {
+    "name": "DAI-IDLE",
+    "address": "0x9a8ec3b061b180cf8fa3ee295c379dc9262424b3"
+  },
+  {
+    "name": "DAI-ZALV2",
+    "address": "0x675a8fa1cf8a9c3bf2c49ff14fdcaa01b11dd842"
+  },
+  {
+    "name": "DAI-N3RDZ",
+    "address": "0x61e3fdf3fb5808acfd8b9cfe942c729c07b0fe21"
+  },
+  {
+    "name": "DAI-2KEY",
+    "address": "0xda9a09ed40015346f6b0704c5bf1a2ccbf94de43"
+  },
+  {
+    "name": "DAI-WILC",
+    "address": "0xe6bdd6464e5e98f19eb3a6180969ca64b29011c5"
+  },
+  {
+    "name": "DAI-3LY",
+    "address": "0x033d3dcd03faaa8bbe40a83b3b906d42adc655f2"
+  },
+  {
+    "name": "DAI-EYE",
+    "address": "0x890ff7533ca0c44f33167fdeeeab1ca7e690634f"
+  },
+  {
+    "name": "DAI-USDFL",
+    "address": "0xa8216f6eb1f36e1de04d39c3bc7376d2385f3455"
+  },
+  {
+    "name": "DAI-UNC",
+    "address": "0x3ad690d0d3260851e09a1ca0b46ee1010ce1d099"
+  },
+  {
+    "name": "DAI-VSDC",
+    "address": "0x079a65ee52a166e7575926a4e2ec3c7c4a7173a3"
+  },
+  {
+    "name": "DAI-PLR",
+    "address": "0x025d34acfd5c65cfd5a73209f99608c9e13338f3"
+  },
+  {
+    "name": "DAI-BCC",
+    "address": "0x0e236240c4e9a26e4e8d6d516fc2c028f6fdc3bb"
+  },
+  {
+    "name": "DAI-ONIGIRI",
+    "address": "0x1f3752c1a605451d8cda714140e5ce7b3bc3d62b"
+  },
+  {
+    "name": "DAI-CLAIM",
+    "address": "0x754defb8c1ed4f295d0bc23e91847d1b85acb890"
+  },
+  {
+    "name": "DAI-LINK",
+    "address": "0x6d4fd456edeca58cf53a8b586cd50754547dbdb2"
+  },
+  {
+    "name": "DAI-🐟",
+    "address": "0x033fa3759a33b2d3acf50d5166beaa1db53fb2a0"
+  },
+  {
+    "name": "DAI-VOKENTB",
+    "address": "0xc8dc7a92769d055d0727a13b22d2b9b8de530a79"
+  },
+  {
+    "name": "DAI-XUSD",
+    "address": "0x143d8a74cadf8a3927b2926be0154739f4953422"
+  },
+]
