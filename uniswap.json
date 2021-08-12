@@ -656,7 +656,163 @@
     "address": "0xc8dc7a92769d055d0727a13b22d2b9b8de530a79"
   },
   {
+    "name": "DAI-BORGDAI",
+    "address": "0x55c36404e74084a90d07ec17b18f3c56971c7c7c"
+  },
+  {
     "name": "DAI-XUSD",
     "address": "0x143d8a74cadf8a3927b2926be0154739f4953422"
+  },
+  {
+    "name": "DAI-RUFI",
+    "address": "0x141dbaa9024251a1b919bf0eddba527a45752b0e"
+  },
+  {
+    "name": "DAI-FLIXX",
+    "address": "0x8beb8c717a9a731ee87b76f260927958d4adc2d3"
+  },
+  {
+    "name": "DAI-PROS",
+    "address": "0x990349b4642cadd8cc118f5570123a1505868086"
+  },
+  {
+    "name": "DAI-BAT",
+    "address": "0x6929abd7931d0243777d3cd147fe863646a752ba"
+  },
+  {
+    "name": "DAI-BSG",
+    "address": "0x4a9596e5d2f9bef50e4de092ad7181ae3c40353e"
+  },
+  {
+    "name": "DAI-CEC",
+    "address": "0x7a99c4683b2ef82645bd9d39a80d2e7b880677eb"
+  },
+  {
+    "name": "DAI-HEGIC",
+    "address": "0x502700f282e6bfc2bb3b805893fadffacf688e7b"
+  },
+  {
+    "name": "DAI-XIO",
+    "address": "0x25202bde318ff6e4a34050246458968007b13530"
+  },
+  {
+    "name": "DAI-CM",
+    "address": "0x3882e6c4335d3c8103af314899ead14f9e31903a"
+  },
+  {
+    "name": "DAI-XTRND",
+    "address": "0xc21af022b75132a9b6c8f5edb72d4b9a8313cd6d"
+  },
+  {
+    "name": "DAI-DAIQ",
+    "address": "0x26b4b107dce673c00d59d71152136327cf6dfebf"
+  },
+  {
+    "name": "DAI-TRND",
+    "address": "0x36dfc065ae98e97502127d03f727dec74db045ba"
+  },
+  {
+    "name": "DAI-MFT",
+    "address": "0xe8056b83ba7daf027414b58048a48911acf1b2a9"
+  },
+  {
+    "name": "DAI-SOTU",
+    "address": "0xffc5ec194458e0747c9c3137e0b3a3c714c838ef"
+  },
+  {
+    "name": "DAI-RZRV",
+    "address": "0xcb3b37a738fe76080f1c28d3fc8989c90c344d0c"
+  },
+  {
+    "name": "DAI-BCS",
+    "address": "0xb3e325b62c0c3222c1adc16f530d5dba7a01f7ba"
+  },
+  {
+    "name": "DAI-CURA",
+    "address": "0x3a6694957b153a8ae7686e98796c291565a307f7"
+  },
+  {
+    "name": "DAI-BPF",
+    "address": "0xa061fa048f894bcfed5ec0b2c5b56d80d488833d"
+  },
+  {
+    "name": "DAI-ARTH",
+    "address": "0x35b6f9e6300aa6c722ea189e096b0b073025806f"
+  },
+  {
+    "name": "DAI-STC",
+    "address": "0xfe117bc29f077153bd1f0c46e40a75ea67a20595"
+  },
+  {
+    "name": "DAI-HY",
+    "address": "0xdab81982305527e0d56cbbba34dae20ed2377c1b"
+  },
+  {
+    "name": "DAI-GASB",
+    "address": "0x9766fb2531b9a0efa809465ff80cda678e029b46"
+  },
+  {
+    "name": "DAI-MORC",
+    "address": "0x615190214b61393aceaaac3fc081cab5bc431aab"
+  },
+  {
+    "name": "DAI-FUSE",
+    "address": "0xeb5455590bb2bf67d54d7d3affaa1930c5132b14"
+  },
+  {
+    "name": "DAI-DOUGH",
+    "address": "0x0cf90b0ba4244aa02fb48184411ed7461104bdc9"
+  },
+  {
+    "name": "DAI-RYK",
+    "address": "0x6070eadc9026137fd54ab290fbd5f2f1ae326e4d"
+  },
+  {
+    "name": "DAI-HOGE",
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+  },
+  {
+    "name": "DAI-QSD",
+    "address": "0x3a06787da3507528b33fe28c2207456b6c687871"
+  },
+  {
+    "name": "DAI-JIAOZI",
+    "address": "0x769af5167a6e060be22d7187e16e11304b512dda"
+  },
+  {
+    "name": "DAI-PNK",
+    "address": "0xabdc325419c2a84a79986c60ab7475d6c4e78b53"
+  },
+  {
+    "name": "DAI-ROYAL",
+    "address": "0xb1f746234742bf4f6ec8caf36a7b5f3100f6d1e7"
+  },
+  {
+    "name": "DAI-300",
+    "address": "0x3e9c948de4cd8ecce3d14e4a9cf9a83fdf8e5ae0"
+  },
+  {
+    "name": "DAI-CORE",
+    "address": "0x8e2c6b34a83931dee116bfdbaa0da5b9128c5487"
+  },
+  {
+    "name": "DAI-TCP",
+    "address": "0xdb9cfdbb8c5f91db1702de7a66046ef8a3c34a26"
+  },
+  {
+    "name": "DAI-VSD",
+    "address": "0xcff350bbe5f9834b8bd8e45909bc03b571a46693"
+  },
+  {
+    "name": "DAI-REPV2",
+    "address": "0xada6780fd5ff42c47d75dadb98f3bd07d2e90703"
+  },
+  {
+    "name": "DAI-GRPL",
+    "address": "0xaed149ea9fbcd0ae2223e970f00880835f0558a4"
+  },
+  {
+    "name": "DAI-OOKS",
+    "address": "0x82703a38c707b711856b3459f59537da1ed34498"
   },
 ]
