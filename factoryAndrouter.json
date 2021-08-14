@@ -1,0 +1,356 @@
+{
+  "status":true,
+  "exchanges":
+  [
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+      "factory":"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0x1B96B92314C44b159149f7E0303511fB2Fc4774f",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xBA51D1AB95756ca4eaB8737eCD450cd8F05384cF",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xc639187ef82271D8f517de6FEAE4FaF5b517533c",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xbCD62661A6b1DEd703585d3aF7d7649Ef4dcDB5c",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0x981d2Ba1b298888408d342C39c2Ab92e8991691e",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xaeBE45E3a03B734c68e5557AE04BFC76917B4686",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xd937FB9E6e47F3805981453BFB277a49FFfE04D7",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0x3Da30727ed0626b78C212e81B37B97A8eF8A25bB",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0x610e7a287c27dfFcaC0F0a94f547Cc1B770cF483",
+      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0xc2Eed0F5a0dc28cfa895084bC0a9B8B8279aE492",
+      "factory":"0x01bf7c66c6bd861915cdaae475042d3c4bae16a7",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId":56,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"PancakeSwap V2",
+      "router":"0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "factory":"0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x06da0fd433C1A5d7a4faa01111c044910A184553",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x58Dc5a51fE44589BEb22E8CE67720B5BC5378009",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x95b54C8Da12BB23F7A5F6E26C38D04aCC6F81820",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x611CDe65deA90918c0078ac0400A72B0D25B9bb1",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x117d4288B3635021a3D612FE05a3Cbf5C717fEf2",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xC352e63B7297FCaAe115E0758A6e84355181Cdaf",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x001b6450083E531A5a7Bf310BD2c1Af4247E23D4",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x31503dcb60119A812feE820bb7042752019F2355",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xA75F7c2F025f470355515482BdE9EFA8153536A8",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xA1d7b2d891e3A1f9ef4bBC5be20630C2FEB1c470",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x5E63360E891BD60C69445970256C260b0A6A54c6",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x3E5e560DB64c87e71260878E58D74406e6D693aF",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x397FF1542f962076d0BFE58eA045FfA2d347ACa0",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0x088ee5007C98a9677165D78dD2109AE4a3D04d0C",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+    {
+      "chainId": 1,
+      "_id":"6112b0d9380756399aebc7f2",
+      "name":"SushiSwap V2",
+      "router":"0xbf8722F17E8017c96389C20b41eCB62e1f34e4Bd",
+      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "__v":0,
+      "created_at":"2021-08-10T17:01:13.600Z",
+      "updated_at":"2021-08-10T17:01:13.600Z"
+    },
+  ]
+}
