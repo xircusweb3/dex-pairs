@@ -1,1016 +1,122 @@
-{
-  "status":true,
-  "exchanges":
-  [
+[
     {
-      "router":"0x73feaa1eE314F8c655E354234017bE2193C9E24E",
-      "factory":"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-      "chainId":56
+      "name": "PancakeSwap V2",
+      "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+      "chainId": 56
     },
     {
-      "router":"0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "chainId":56
-    },
-    {
-      "router":"0x1B96B92314C44b159149f7E0303511fB2Fc4774f",
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0xBA51D1AB95756ca4eaB8737eCD450cd8F05384cF",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0xc639187ef82271D8f517de6FEAE4FaF5b517533c",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0xbCD62661A6b1DEd703585d3aF7d7649Ef4dcDB5c",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0x981d2Ba1b298888408d342C39c2Ab92e8991691e",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0xaeBE45E3a03B734c68e5557AE04BFC76917B4686",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0xd937FB9E6e47F3805981453BFB277a49FFfE04D7",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0x3Da30727ed0626b78C212e81B37B97A8eF8A25bB",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
-      "chainId":56
-    },
-    {
-      "factory":"0xbcfccbde45ce874adcb698cc183debcf17952812",
-      "router":"0x610e7a287c27dfFcaC0F0a94f547Cc1B770cF483",
-      "chainId":56
-    },
-    {
-      "factory":"0x01bf7c66c6bd861915cdaae475042d3c4bae16a7",
-      "router":"0xc2Eed0F5a0dc28cfa895084bC0a9B8B8279aE492",
-      "chainId":56
-    },
-    {
-      "factory":"0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
-      "router":"0x10ED43C718714eb63d5aA57B78B54704E256024E",
-      "chainId":56
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x06da0fd433C1A5d7a4faa01111c044910A184553",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x58Dc5a51fE44589BEb22E8CE67720B5BC5378009",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x95b54C8Da12BB23F7A5F6E26C38D04aCC6F81820",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x611CDe65deA90918c0078ac0400A72B0D25B9bb1",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x117d4288B3635021a3D612FE05a3Cbf5C717fEf2",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xC352e63B7297FCaAe115E0758A6e84355181Cdaf",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x001b6450083E531A5a7Bf310BD2c1Af4247E23D4",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x31503dcb60119A812feE820bb7042752019F2355",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xA75F7c2F025f470355515482BdE9EFA8153536A8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xA1d7b2d891e3A1f9ef4bBC5be20630C2FEB1c470",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x5E63360E891BD60C69445970256C260b0A6A54c6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x3E5e560DB64c87e71260878E58D74406e6D693aF",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x397FF1542f962076d0BFE58eA045FfA2d347ACa0",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x088ee5007C98a9677165D78dD2109AE4a3D04d0C",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xbf8722F17E8017c96389C20b41eCB62e1f34e4Bd",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xCb2286d9471cc185281c4f763d34A962ED212962",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x28B5E0090Ff9C1192e1134135deb17e0b1C1cdBF",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xD86A120a06255Df8D4e2248aB04d4267E23aDfaA",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6D37Eb2364f8BB28002BD404cF301fA8106DCb14",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x055CEDfe14BCE33F985C41d9A1934B7654611AAC",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xBc035b6bfB2e6a1F6E7ffb7f44d1E7E2a114d990",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc66eD7c8034E11EBd32499389C35b3E6E9eE3e78",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x75e66d062a2a8BE5c99d71db11d72aB3B82bA8b3",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xBb7aB09971E56Aaf248dCc6C3DF865aF69D97372",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x8283DD24f8D8E7b083e2855a4c3EA1A7Feba08C2",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x7d7428c778424DB4c3A0930D18Ca89a46b66f042",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6367eed0ce97f8ab3c237674ce50d0b746901f33",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x209E2f044bD334c53451900c576aB18e8ceA9B16",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x39043f4a27E4A030aD4bF33132d9D1535CD91Ef6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd989f9ACA3Dff9dB16D3B0ceBc252596bB8AA63E",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xEF4F1D5007B4FF88c1A56261fec00264AF6001Fb",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xEF4F1D5007B4FF88c1A56261fec00264AF6001Fb",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xC965BC2cf23D54ccF41a7d3aF10572580E9B8078",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x1417Bac01F58F68ebf547a3d5B9D0f6E8A495963",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xEA2B2aBEc815a2782b25EA2B3d998e1A5EaFC259",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xCFD111c4c0DaEAE6351bcdC80a993e78923845AB",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x9cBc2A6Ab3f10eDF7d71C9cf3B6BdB7eE5629550",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xa4d456B9DBe75B033b13b138CAADBe4Bd15432ae",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x1F909B6c6153ea046739d632380dB60671fE7f38",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x06f6f3f79bB7236473c144bC43B687428Ac0262E",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x13cB03BFBe8BFb8c9923FAe884A1f1B16Dd2AdEF",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x3a99e53b8f5bb7acc583701ae37f1c7305ff79dd",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xe6d38b6481e6b01cb5f72f64d8ff1b8cdfcbe62a",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x954e5e6b11f3adbd1fffa90e4b718103938a3468",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x48f2339da7d4db105ade880a2809ab8a38899f21",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xba87dc891945dbb3caeeaf822de208d7ea89b298",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xa4cad81673ffdf755388304e7d352c2c065dbf80",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x8b599ddb45e82908fb663a89f09bef0c5dd15f81",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x33f172212d30b559f8d8b8a54911ce10a2d42296",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x844aa51d309bdc4a44146192f8d4097cad51d96e",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc4de5cc1232f6493cc7bf7bcb12f905eb9742bd7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x7a8c6b6e44cc12df550096f88a5ba746c38ed9b0",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xe5dfae93ea1820e58c1a12c110618dd1c18374a5",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x0289b9cd5859476ce325aca04309d36addcebdaa",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xebd49b4c8f7f0ded2ca8b951cf92a583e7b4c8e7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x47ff5a2ad7a36cfcf7867539f5851a4a573bf4e1",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x161388deb2c1147d5bed3003277d59d479d5a228",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xceff51756c56ceffca006cd410b03ffc46dd3a58",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xcd397987bfbf91e5c64e50226a361e80e598fc44",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x807fdbcb54dc5d01b99a5aa7fce883a759d27cbe",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x53aabccae8c1713a6a150d9981d2ee867d0720e8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x2d2bc284c24b5debe489da59557862e0af884f23",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x378b4c5f2a8a0796a8d4c798ef737cf00ae8e667",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6515671641c9028e1a27117f1214dfd08132509c",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x15e86e6f65ef7ea1dbb72a5e51a07926fb1c82e3",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x71b50dd6ca7433b5d528f472b93f115ce00af9c8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x0bb1f1cb9dd524e0f663ae1d0b24e60c1541956b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x9bea554d1ffc33f7ec498693d6f512a63769d59c",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd626015edfbbeba3def1d764a162a0b4d7bf22f0",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x5862d8d46f6a42332dec8d8d8c27796c0f38264b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc9116009b44afc73f319c2011d7c6c698873bf13",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x36b66b447b7a2ffaee307785f663ec8d5a598ba1",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x9307539a322ec5afb08632bc97d8250f2d94544d",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd281af557aa16b6d49647b204e16c1083069a7bb",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd14f2f65915c8c4bb75c78209a53f8d0362997a7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc8703a9c40edb9915c815f29762827f6242278bf",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf7b515cf4dbcfa0b215bab0ccde0f4befc15e3c8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf1934eab3f6b9cac3967cf6d1732c5e8f4c43230",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x715134a16acb73c86e81df5542e1cf759eeb6fc7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdca8bedda2a15b740d3bc58bb14027c48f2afbf6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6ba975118545f1bcbda6376d08417494ef9a6e16",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdfb87fd2f9f5eec75930a2d8cfe67f791801fe30",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x02eb135eba0d5b36c2cf0bb9190c36927c5eed6d",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x74b09f9408b25653ae632bbc81449db9d736ffa8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x9609f1398ff6b982c97fc4437cfdeba78ccde07b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf2ae5aaef14d08e0ea618abb1384127941bcbda6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdd2f8d990d7352bb38bd0340c394af4691d9957c",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x03a609e25ced7c3bcefa25eb513e601bdec80cb7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x87d3d823f7ee1a86f0939371cc3a2ef46889b1e5",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x168d3fcbb4213fc91d5c40acc302bfccd89112aa",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x517f396b0582a46c00a20de9904717b55b4dbe46",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xbcd6a2ddafbaa7f424698ed69e717c0c0f1e99bf",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf139473f526f7a139298ef2892f1915031c4f4da",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x04940b1776b0bf5786dac58986112c4f722bfc63",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6b5535346d6e8620285b8ee08d2f3651e6c75d68",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf727fc12f07f510df7f5169f5dc4ca91b9a05753",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x94607d90f79ca3416a0ccec1aa7442ea26df1af0",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xe1996640c0e7ae4ddca6310a25879b8255c7e92f",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x4cdfe65f19d045b7cacfd074f246e48119064a79",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xb8b3662413d35a3f2cd1ebe069873f69ce5cfa8b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdafd66636e2561b0284edde37e42d192f2844d40",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc926990039045611eb1de520c1e249fd0d20a8ea",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x2c85669157adf4dde13c46b6323ff4593c7e86f8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf05fd86c9b2f5e883165fc7de5e41f65ac5494c7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xad1894d8b708a11f627d6a0355c5e6b2e0beb606",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x53bb862238b852f387c3f8b8008e4622548e82d1",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x06ffece99895111717c99b4a8d756ad85a57b9a9",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdf2c408f0ad496b222bac96ecadc68703b9e0b2a",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xba13afecda9beb75de5c56bbaf696b880a5a50dd",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x812dcbf51f5a7a000df6e7aaa8557290fd41cf41",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd78320039371b570a9825b130e89a61ac1397c9c",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x81ea504d5b278f651398faef51cc65a7b5791663",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x5a875034bb718d583e490b1e6831a436e73db2e4",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x659feb90afb43bf9ade6c88ee730ecbfadda01b8",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x36e2fcccc59e5747ff63a03ea2e5c0c2c14911e7",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x1923ede7104c67d4af0a970bf8e8d566eaea2680",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x2024324a99231509a3715172d4f4f4e751b38d4d",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x0cfe7968e7c34a51217a7c9b9dc1690f416e027e",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xfcff3b04c499a57778ae2cf05584ab24278a7fcb",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x0be88ac4b5c81700acf3a606a52a31c261a24a35",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x382c4a5147fd4090f7be3a9ff398f95638f5d39e",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x17b3c19bd640a59e832ab73eccf716cb47419846",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x2e3e2d13ff250308e3a9eb25739b7eed1316249b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf169cea51eb51774cf107c88309717dda20be167",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x3281062759acbec9a34f2c4483ae28671acc5103",
+      "name": "SushiSwap V2",
+      "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+      "factory": "0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
       "chainId": 1
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x88155b7e850fcffabfc632a3bd8bfafd90fd198d",
+      "name": "UniSwap V2",
+      "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
+      "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
       "chainId": 1
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x518d6ce2d7a689a591bf46433443c31615b206c5",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x588a41f0f764a335798e0a3e7212a46b5029cc2c",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xe69d51fe01608edffca53d0881897fff9ae09bf6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xe26433358fdb9addcc59ba3f2df0e8490b015ff4",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x73d5285f1221564bce82521f901cbf23fbcb876b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xa179d8f12f99cea60700f32f602a57c25f1f6e89",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x718ff3f9957ab5586ecff2df2aa11121f71f3d67",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x51dcb8d09fac22c974cb2ef169310cc501063f46",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x7212fb4efc7c1d5eb56dea974becb3079c805c6b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x998bf04788c1c631c0e02bd1eed3d945308bf0a3",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x04631328f056046ab6a5ae62df2d4fe6bead5334",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x145f07dad471ca72917fb1df304c804a14d5a65f",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x561aef36a2237f86696e15b131f7ff3e141feab2",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd75ea151a61d06868e31f8988d28dfe5e9df57b4",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x942d30f11f3f232e4dca25e2f0e7501dc91a0277",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xe5ccd204616e0c13321087c74215a6d1e505f382",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x166cd86e770deca0b2de9a1987200c2eb3c368e6",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xb9e4b63716252ec73dc43c545bfd58d18f040251",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x04771d6e1c4b1a6912c74ec53e6d1e83b45e4e9b",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd0cd6c701a567e7a3887a6ba5ebdfc10a6da7f9c",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xb302c4f59d0bd05894ca46ffbc1b718672c9dffc",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6aac580bc0c390ca2b45ff9535baea8651dae8c1",
-      "chainId": 1
+      "name": "HyperJump: HyperSwap",
+      "router": "0x3bc677674df90A9e5D741f28f6CA303357D0E4Ec",
+      "factory": "0xac653ce27e04c6ac565fd87f18128ad33ca03ba2",
+      "chainId": 56
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xda142aafeb162d83c13db2b68b3d51c89a972901",
+      "name": "ShibaSwap",
+      "router": "0xa808ee750c59566b32FeFa225b28D12bF5b1Ca53",
+      "factory": "0x115934131916c8b277dd010ee02de363c09d037c",
       "chainId": 1
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x8933f521c9b4652cf4c21a330314f85a9e4a1dfa",
+      "name": "UniSwap V2: CowSwap",
+      "router": "0x735EE7293Fa2acf19a636BA83e19BEd5AAD415e6",
+      "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
       "chainId": 1
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x43cdbf2177cf8164b9ade4e89c216f860f7a4bce",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x4ae7a9e5cd73bb3d886febcd3e33a60e9f354be3",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdd77c93199064a53e1db19ee0930bcdf7c9999f4",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xfcfee7769c012578877dc787a5d9a339cc5920a1",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6633ec82d40f701ab37a2b6d824dfc34081e3b50",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x121626bce68a417069279ca626b7305a6c1e4eeb",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xf5d5c8125192c7968540e0718a883874a9038c2d",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xdae2bf063d208611f2e44378197a3315ea569a16",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xa4352165cd89cfd6f9c831c1ae83c4e3a7f9b0de",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xfa0e7f0eb396154f71037b8c820f755c4475e9bf",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x00c70e8b3c9d0e0adb85993382abaae2a11c5d96",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd11684e2ea44128c26877376cb75b9c36e8381dd",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x68c6d02d44e16f1c20088731ab032f849100d70f",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xb2c98ff85c650d642402a16e02d87d8a433f1212",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x6d0083fb8c8d4c62441fee5b5be2cc21182b5fe3",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x97a707e8f4cda8b0cfb13f20ecc576096f6ebed2",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x742c15d71ea7444964bc39b0ed729b3729adc361",
-      "chainId": 1
-    },
-    {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x269db91fc3c7fcc275c2e6f22e5552504512811c",
-      "chainId": 1
+      "name": "PancakeSwap V2: BabySwapBinance",
+      "router": "0xA0ca8A821D2D6e7126b6399cf560FDE622dC0E9B",
+      "factory": "0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+      "chainId": 56
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x2dbc7dd86c6cd87b525bd54ea73ebeebbc307f68",
-      "chainId": 1
+      "name": "BenSwap",
+      "router": "0xd07622f60543D1f744B6397C27Ac4a2e226d0943",
+      "factory": "0x4dc6048552e2dc6eb1f82a783e859157d40fa193",
+      "chainId": 56
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x7C46Ff058f4eC60FDfa99D97E9D8563437F95E01",
-      "chainId": 1
+      "name": "ApeSwap",
+      "router": "0xDDd3f9d5Bd347c55D18752c0C2075698EC657750",
+      "factory": "0x0841bd0b734e4f5853f0dd8d7ea041c241fb0da6",
+      "chainId": 56
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x9cdb6fcb7536baead4e2253c1840d3bd406c7a9d",
-      "chainId": 1
+      "chainId": 250,
+      "name": "HyperJump: HyperSwap Router",
+      "router": "0x53c153a0df7E050BbEFbb70eE9632061f12795fB",
+      "factory": "0x991152411a7b5a14a8cf0cdde8439435328070df"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xb94510458bf21dc955fa01552bbc5cd7de04c0cf",
-      "chainId": 1
+      "chainId": 250,
+      "name": "SushiSwap: V2 Router",
+      "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xc0ed9ef67d40c9226a6d3ae065e5a5113abf371b",
-      "chainId": 1
+      "chainId": 250,
+      "name": "SpiritSwap: Router",
+      "router": "0x16327E3FbDaCA3bcF7E38F5Af2599D2DDc33aE52",
+      "factory": "0xef45d134b73241eda7703fa787148d9c9f4950b0"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x3dabc5efbfd7a9d925a01929ba65418de6a6c065",
-      "chainId": 1
+      "chainId": 250,
+      "name": "PaintSwap: Router",
+      "router": "0xfD000ddCEa75a2E23059881c3589F6425bFf1AbB",
+      "factory": "0x733a9d1585f2d14c77b49d39bc7d7dd14cda4aa5"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x0f82e57804d0b1f6fab2370a43dcfad3c7cb239c",
-      "chainId": 1
+      "chainId": 250,
+      "name": "SpookySwap: Router",
+      "router": "0xF491e7B69E4244ad4002BC14e878a34207E38c29",
+      "factory": "0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x7bb6c127d9ca17475fcce1f8c0d61b77d327a981",
-      "chainId": 1
+      "chainId": 137,
+      "name": "SushiSwap: SushiV2Router02",
+      "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x313bb8421607d7c100bbf3299fe505d0bd1f821c",
-      "chainId": 1
+      "chainId": 137,
+      "name": "QuickSwap: Router",
+      "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "factory": "0x5757371414417b8c6caad45baef941abc7d3ab32"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0xd3f85d18206829f917929bbbf738c1e0ce9af7fc",
-      "chainId": 1
+      "chainId": 137,
+      "name": "Firebird Finance: OneSwap Router",
+      "router": "0x9f197f9ff460355A40B3c9A10f7d1Ca65f365b83",
+      "factory": ""
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x59befe124e09ce71aee9e8d1b072a08c102aa8d3",
-      "chainId": 1
+      "chainId": 137,
+      "name": "Plasma.Finance: Router",
+      "router": "0x5D5BADeF6F69cBafDF443D6226dC00B24626367E",
+      "factory": "0x745c475cc101ca5580eff6f723976480881bc008"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x046d8c308fd8b1d287fecec297dea805a6d925f0",
-      "chainId": 1
+      "chainId": 137,
+      "name": "Wault Finance: WS Poly Router",
+      "router": "0x3a1D87f206D12415f5b0A33E786967680AAb4f6d",
+      "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
     },
     {
-      "factory":"0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
-      "router":"0x1ccc8ee624fbe8c10917b96d1f0672b480f0d671",
-      "chainId": 1
+      "chainId": 137,
+      "name": "Wault Finance: WS Poly Router",
+      "router": "0x3a1D87f206D12415f5b0A33E786967680AAb4f6d",
+      "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
     }
-  ]
-}
+]
