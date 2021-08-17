@@ -1,0 +1,32 @@
+[
+  {
+    "chainId": 250,
+    "name": "HyperJump: HyperSwap Router",
+    "router": "0x53c153a0df7E050BbEFbb70eE9632061f12795fB",
+    "factory": "0x991152411a7b5a14a8cf0cdde8439435328070df"
+  },
+  {
+    "chainId": 250,
+    "name": "SushiSwap: V2 Router",
+    "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+    "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+  },
+  {
+    "chainId": 250,
+    "name": "SpiritSwap: Router",
+    "router": "0x16327E3FbDaCA3bcF7E38F5Af2599D2DDc33aE52",
+    "factory": "0xef45d134b73241eda7703fa787148d9c9f4950b0"
+  },
+  {
+    "chainId": 250,
+    "name": "PaintSwap: Router",
+    "router": "0xfD000ddCEa75a2E23059881c3589F6425bFf1AbB",
+    "factory": "0x733a9d1585f2d14c77b49d39bc7d7dd14cda4aa5"
+  },
+  {
+    "chainId": 250,
+    "name": "SpookySwap: Router",
+    "router": "0xF491e7B69E4244ad4002BC14e878a34207E38c29",
+    "factory": "0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3"
+  }
+]
