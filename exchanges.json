@@ -1,0 +1,119 @@
+{
+  "status" : true,
+  "exchanges": [
+      {
+        "name": "PancakeSwap V2",
+        "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+        "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+        "chainId": 56
+      },
+      {
+        "name": "SushiSwap V2",
+        "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+        "factory": "0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+        "chainId": 1
+      },
+      {
+        "name": "UniSwap V2",
+        "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
+        "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+        "chainId": 1
+      },
+      {
+        "name": "HyperJump: HyperSwap",
+        "router": "0x3bc677674df90A9e5D741f28f6CA303357D0E4Ec",
+        "factory": "0xac653ce27e04c6ac565fd87f18128ad33ca03ba2",
+        "chainId": 56
+      },
+      {
+        "name": "ShibaSwap",
+        "router": "0xa808ee750c59566b32FeFa225b28D12bF5b1Ca53",
+        "factory": "0x115934131916c8b277dd010ee02de363c09d037c",
+        "chainId": 1
+      },
+      {
+        "name": "UniSwap V2: CowSwap",
+        "router": "0x735EE7293Fa2acf19a636BA83e19BEd5AAD415e6",
+        "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+        "chainId": 1
+      },
+      {
+        "name": "PancakeSwap V2: BabySwapBinance",
+        "router": "0xA0ca8A821D2D6e7126b6399cf560FDE622dC0E9B",
+        "factory": "0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+        "chainId": 56
+      },
+      {
+        "name": "BenSwap",
+        "router": "0xd07622f60543D1f744B6397C27Ac4a2e226d0943",
+        "factory": "0x4dc6048552e2dc6eb1f82a783e859157d40fa193",
+        "chainId": 56
+      },
+      {
+        "name": "ApeSwap",
+        "router": "0xDDd3f9d5Bd347c55D18752c0C2075698EC657750",
+        "factory": "0x0841bd0b734e4f5853f0dd8d7ea041c241fb0da6",
+        "chainId": 56
+      },
+      {
+        "chainId": 250,
+        "name": "HyperJump: HyperSwap Router",
+        "router": "0x53c153a0df7E050BbEFbb70eE9632061f12795fB",
+        "factory": "0x991152411a7b5a14a8cf0cdde8439435328070df"
+      },
+      {
+        "chainId": 250,
+        "name": "SushiSwap: V2 Router",
+        "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+      },
+      {
+        "chainId": 250,
+        "name": "SpiritSwap: Router",
+        "router": "0x16327E3FbDaCA3bcF7E38F5Af2599D2DDc33aE52",
+        "factory": "0xef45d134b73241eda7703fa787148d9c9f4950b0"
+      },
+      {
+        "chainId": 250,
+        "name": "PaintSwap: Router",
+        "router": "0xfD000ddCEa75a2E23059881c3589F6425bFf1AbB",
+        "factory": "0x733a9d1585f2d14c77b49d39bc7d7dd14cda4aa5"
+      },
+      {
+        "chainId": 250,
+        "name": "SpookySwap: Router",
+        "router": "0xF491e7B69E4244ad4002BC14e878a34207E38c29",
+        "factory": "0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3"
+      },
+      {
+        "chainId": 137,
+        "name": "SushiSwap: SushiV2Router02",
+        "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+      },
+      {
+        "chainId": 137,
+        "name": "QuickSwap: Router",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "factory": "0x5757371414417b8c6caad45baef941abc7d3ab32"
+      },
+      {
+        "chainId": 137,
+        "name": "Plasma.Finance: Router",
+        "router": "0x5D5BADeF6F69cBafDF443D6226dC00B24626367E",
+        "factory": "0x745c475cc101ca5580eff6f723976480881bc008"
+      },
+      {
+        "chainId": 137,
+        "name": "Wault Finance: WS Poly Router",
+        "router": "0x3a1D87f206D12415f5b0A33E786967680AAb4f6d",
+        "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
+      },
+      {
+        "chainId": 137,
+        "name": "Wault Finance: WS Poly Router",
+        "router": "0x3a1D87f206D12415f5b0A33E786967680AAb4f6d",
+        "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
+      }
+  ]
+}
