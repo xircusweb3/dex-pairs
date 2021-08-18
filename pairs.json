@@ -5,7 +5,8 @@
     "address": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -13,7 +14,8 @@
     "address": "0xF90BAA331Cfd40F094476E752Bf272892170d399",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -21,7 +23,8 @@
     "address": "0x2e28b9b74d6d99d4697e913b82b41ef1cac51c6c",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -29,7 +32,8 @@
     "address": "0xdcfbb12ded3fea12d2a078bc6324131cd14bf835",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -37,266 +41,304 @@
     "address": "0x2e28b9b74d6d99d4697e913b82b41ef1cac51c6c",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-TRX PancakeSwap",
     "address": "0x2e28b9b74d6d99d4697e913b82b41ef1cac51c6c",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-WIN PancakeSwap",
     "address": "0x6a445ceb72c8b1751755386c3990055ff92e14a0",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-IF PancakeSwap",
     "address": "0x7b4682D2B3f8670b125aF6AEA8d7eD2Daa43Bdc1",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-PMON PancakeSwap",
     "address": "0xcdb0016d97fd0e7ec2c3b78aa4786cbd8e19c14c",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-TITAN PancakeSwap",
     "address": "0x9392a1f471d9aa14c0b8eb28bd7a3f4a814727be",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-TUSD PancakeSwap",
     "address": "0xb5d108578be3750209d1b3a8f45ffee8c5a75146",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-ADX PancakeSwap",
     "address": "0x0648ff5de80adf54aac07ece2490f50a418dde23",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-FORM PancakeSwap",
     "address": "0x3E19C18Fe3458A6065D8F0844cB7Eae52C9DAE07",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-ORBS PancakeSwap",
     "address": "0xB87b857670A44356f2b70337E0F218713D2378e8",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-03 PancakeSwap",
     "address": "0x7759283571Da8c0928786A96AE601944E10461Ff",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-AMPL PancakeSwap",
     "address": "0x6e98beb694ff1cdb1ee130edd2b21b0298683d58",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-MX PancakeSwap",
     "address": "0x41f049d990d38305504631c9835f6f856bf1ba67",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-BCFX PancakeSwap",
     "address": "0xA0387eBeA6be90849c2261b911fBBD52B4C9eAC4",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-QKC PancakeSwap",
     "address": "0x8853e3309a31583ea438f7704681f46f0d4d909b",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-WELL PancakeSwap",
     "address": "0x1d94cb25895abd6ccfef863c53372bb462aa6b86",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-DERI PancakeSwap",
     "address": "0xdc7188ac11e124b1fa650b73ba88bf615ef15256",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-CHR PancakeSwap",
     "address": "0x6045931e511ef7e53a4a817f971e0ca28c758809",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-CAKE PancakeSwap",
     "address": "0x804678fa97d91B974ec2af3c843270886528a9E6",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-WMASS PancakeSwap",
     "address": "0xec95ff6281c3ad8e27372fa6675eb337640b8e5e",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-UBXT PancakeSwap",
     "address": "0x8d3ff27d2ad6a9556b7c4f82f4d602d20114bc90",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-BTR PancakeSwap",
     "address": "0xbc7ac609fa730239190a70952e64ee1dfc2530ac",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-OIN PancakeSwap",
     "address": "0x6a00e41561ac36a78dba1d09091b0f00c4e53724",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-ONE PancakeSwap",
     "address": "0x4d057f769d930eafd597b49d6fb2e1009a73a702",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-KUN PancakeSwap",
     "address": "0xea61020e5a128d2bec67d48f7cfbe3408db7e391",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-MATH PancakeSwap",
     "address": "0xb7cada0f120ca46745a024e6b9fe907b2fe10cf3",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-BTCB PancakeSwap",
     "address": "0xf45cd219aef8618a92baa7ad848364a158a24f33",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-ALPACA PancakeSwap",
     "address": "0x7752e1fa9f3a2e860856458517008558deb989e3",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-NUS PancakeSwap",
     "address": "0x853784B7BDe87d858555715c0123374242db7943",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-RAMP PancakeSwap",
     "address": "0xE834bf723f5bDff34a5D1129F3c31Ea4787Bc76a",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-DEXE PancakeSwap",
     "address": "0x3578B1f9BCE98D2F4D293b422d8850fdf48B1f21",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-TPT PancakeSwap",
     "address": "0x6D0c831254221ba121fB53fb44Df289A6558867d",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-IOTX PancakeSwap",
     "address": "0xc13aA76AAc067c86aE38028019F414D731b3D86A",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-LINA PancakeSwap",
     "address": "0xC5768c5371568Cf1114cddD52CAeD163A42626Ed",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-UST PancakeSwap",
     "address": "0x05faf555522Fa3F93959F86B41A3808666093210",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-USDC PancakeSwap",
     "address": "0x2354ef4DF11afacb85a5C7f98B624072ECcddbB1",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-DAI PancakeSwap",
     "address": "0x66FDB2eCCfB58cF098eaa419e5EfDe841368e489",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
     "name": "BUSD-VAI PancakeSwap",
     "address": "0x133ee93FE93320e1182923E1a640912eDE17C90C",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -304,7 +346,8 @@
     "address": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -312,7 +355,8 @@
     "address": "0xec6557348085aa57c72514d67070dc863c0a5a8c",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -320,7 +364,8 @@
     "address": "00xA39Af17CE4a8eb807E076805Da1e2B8EA7D0755b",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -328,7 +373,8 @@
     "address": "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -336,7 +382,8 @@
     "address": "0x1472976e0b97f5b2fc93f1fff14e2b5c4447b64f",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -344,7 +391,8 @@
     "address": "0xEa26B78255Df2bBC31C1eBf60010D78670185bD0",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":56,
@@ -352,7 +400,8 @@
     "address": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
     "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    "usd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "__v": 0
   },
   {
     "chainId":1,
@@ -360,7 +409,8 @@
     "address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -368,7 +418,8 @@
     "address": "0xf52f433b79d21023af94251958bed3b64a2b7930",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -376,7 +427,8 @@
     "address": "0x3041cbd36888becc7bbcbc0045e3b1f144466f5f",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -384,7 +436,8 @@
     "address": "0x61b62c5d56ccd158a38367ef2f539668a06356ab",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -392,7 +445,8 @@
     "address": "0xfcd13ea0b906f2f87229650b8d93a51b2e839ebd",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
     
   },
   {
@@ -401,7 +455,8 @@
     "address": "0xb20bd5d04be54f870d5c0d3ca85d82b34b836405",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -409,7 +464,8 @@
     "address": "0xd3d8c734f06229e36febd07505d8f57b7b78af7c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -417,7 +473,8 @@
     "address": "0xc50ef7861153c51d383d9a7d48e6c9467fb90c38",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -425,7 +482,8 @@
     "address": "0x5b1e45ca08fa4d65aa7fdcf9e116990fb7fce73b",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -433,7 +491,8 @@
     "address": "0xf8d99cf7046dedcb1dc8cfc309aa96946c9b9db2",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -441,7 +500,8 @@
     "address": "0x2dc9d00da9542f91d5391be53ed1d58a04ec1c07",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -449,7 +509,8 @@
     "address": "0x1cd926f3e12f7b6c2833fbe7277ac53d529a794e",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -457,7 +518,8 @@
     "address": "0x1a57ec5459928389fbb5612ff2a5e0b534fd9e2e",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -465,7 +527,8 @@
     "address": "0x67b3825348521b94828127f1ee31da80ee67d285",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -473,7 +536,8 @@
     "address": "0xcc01d9d54d06b6a0b6d09a9f79c3a6438e505f71",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -481,7 +545,8 @@
     "address": "0xde6faedbcae38eec6d33ad61473a04a6dd7f6e28",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -489,7 +554,8 @@
     "address": "0x1197774e49f98b24c7afa88f0eb6fbd0e0786a0a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -497,7 +563,8 @@
     "address": "0x01388f9242964e2aaadef6379eb92276acb5520e",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -505,7 +572,8 @@
     "address": "0xe53533f78787c63735c77c9e2f9c60081b942cdb",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -513,7 +581,8 @@
     "address": "0x420725a69e79eeffb000f98ccd78a52369b6c5d4",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -521,7 +590,8 @@
     "address": "0x6f118ecebc31a5ffe49b87c47ea80f93a2af0a8a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -529,7 +599,8 @@
     "address": "0x4b8852e4747b8a7d4caf0440e4e3397032a6723d",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -537,7 +608,8 @@
     "address": "0x0cfb06414c6d9790bc661230dba0b24060808bf4",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -545,7 +617,8 @@
     "address": "0x0e20642b32567f2dc74f149663fc474f534e1d5a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -553,7 +626,8 @@
     "address": "0xa0abda1f980e03d7eadb78aed8fc1f2dd0fe83dd",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -561,7 +635,8 @@
     "address": "0xdfb8824b094f56b9216a015ff77bdb056923aaf6",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -569,7 +644,8 @@
     "address": "0x8d8da72161da2d800ebdd2a316214eac7c32fca0",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -577,7 +653,8 @@
     "address": "0x43747d31fc178d626047c5b4346a251418167a1a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -585,7 +662,8 @@
     "address": "0x5551c4812a89bf840e3da6debd4cb1a2d5322e3a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -593,7 +671,8 @@
     "address": "0x6d7a7b251a6cac43f1798494d847e6d333f9ffca",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -601,7 +680,8 @@
     "address": "0x63c15476fc7c95b4d9023889e34ac491727c7220",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -609,7 +689,8 @@
     "address": "0x5551c4812a89bf840e3da6debd4cb1a2d5322e3a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -617,7 +698,8 @@
     "address": "0x05636a7c0544ab05e179a552dcb811bdbf304f38",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -625,7 +707,8 @@
     "address": "0x5811ec00d774de2c72a51509257d50d1305358aa",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -633,7 +716,8 @@
     "address": "0x873823930b78e1c1c3d9674b5cb107dd2d211bf0",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -641,7 +725,8 @@
     "address": "0x078e0bca688615c1c4f0c9d4baf6fd8aee4f42dd",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -649,7 +734,8 @@
     "address": "0x0b41854f5d251c12b1de6a88dd4292944f04305c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -657,7 +743,8 @@
     "address": "0x576cea6d4461fcb3a9d43e922c9b54c0f791599a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -665,7 +752,8 @@
     "address": "0xf6887ad6f3b342840dbea138e8003f2ca14f4500",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -673,7 +761,8 @@
     "address": "0xec5c7dba9911c2e6b21337760e7c6ffdfaa16a88",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -681,7 +770,8 @@
     "address": "0x64b91b92240bc1901855dd55ae632addb650d089",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -689,7 +779,8 @@
     "address": "0x91b1b853c1426c4aa78cac984c6f6dd1e80b0c4f",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -697,7 +788,8 @@
     "address": "0x7f75f0aed3c4158b91ad3641afa6e8d035311862",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -705,7 +797,8 @@
     "address": "0xf0d1109e723cb06e400e2e57d0b6c7c32bedf61a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -713,7 +806,8 @@
     "address": "0x66e32d1b776a43935ed20e8dc39a27a140d31c8f",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -721,7 +815,8 @@
     "address": "0x4bb0925fa50da9b4c8936869433b48e78ccc5c13",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -729,7 +824,8 @@
     "address": "0x8af91a49dc547d8dc52d65393671ddd1c6ddcd24",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -737,7 +833,8 @@
     "address": "0x76911e11fddb742d75b83c9e1f611f48f19234e4",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -745,7 +842,8 @@
     "address": "0xe449446b04266f1155b310ab7619964288df49b6",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -753,7 +851,8 @@
     "address": "0x31cf0327782a22958e7361f75ed86a7b69eb0aa7",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -761,7 +860,8 @@
     "address": "0xe53bfffd5d9a53250a3f30409fdc463cb5ed05e1",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -769,7 +869,8 @@
     "address": "0xbaeca7c35346a8d31811ef971f38603012a12c1e",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -777,7 +878,8 @@
     "address": "0xd5ceac74e81e81995f041fd268453a6127f52a35",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -785,7 +887,8 @@
     "address": "0x9f624b25991b99d7b14d6740a9d581dd77980808",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -793,7 +896,8 @@
     "address": "0x3a925503970d40d36d2329e3846e09fcfc9b6acb",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -801,7 +905,8 @@
     "address": "0xf94556124786e08171d278a75cf1b46ee9592227",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -809,7 +914,8 @@
     "address": "0x1812ef69e1753f908229df40d304a5fbdcd52dd3",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -817,7 +923,8 @@
     "address": "0xde93684627d4e34d6ef96adf5bcabf10bbd8dd81",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -825,7 +932,8 @@
     "address": "0xb5b51148a602afb716e241273adbce5558540293",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -833,7 +941,8 @@
     "address": "0xea02e0f8f470de1107cb336f827c4192117574bb",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -841,7 +950,8 @@
     "address": "0xfdc5088412e5f7187e3ee8619542f33ed01a8f05",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -849,7 +959,8 @@
     "address": "0x5f094191ddad05c5b6ddfa992a4f49d8d679290d",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -857,7 +968,8 @@
     "address": "0x073f095f0d69f9269bf9ffdb9934f27539ca3cf8",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -865,7 +977,8 @@
     "address": "0xd873f9187ed9166118b10f61ff85c5005709670e",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -873,7 +986,8 @@
     "address": "0xa7b0d77e322f7643f6eb7c8bb4ff83e49c6bdee8",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -881,7 +995,8 @@
     "address": "0xe41ca68a146a9598e88cea57b95317d6082372ad",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -889,7 +1004,8 @@
     "address": "0xfb9ec354efc86167728b4eadd854853f410b7660",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -897,7 +1013,8 @@
     "address": "0xcae645be1a8428e886cdbe8762825b8a7d4a740d",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -905,7 +1022,8 @@
     "address": "0xdeea5c497b7557e8742f2707549e8b2f9f09594c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -913,7 +1031,8 @@
     "address": "0xea4420182d5b4038ce500380d2cea4bfcd92df97",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -921,7 +1040,8 @@
     "address": "0x20b2ef197302be35c4c08f466a646e5da75a86e3",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -929,7 +1049,8 @@
     "address": "0x6e35996ae06c45e9de2736c44df9c3f1aab781af",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -937,7 +1058,8 @@
     "address": "0xc460d84780ad9c7dcbc495229e80c925160fc0b1",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -945,7 +1067,8 @@
     "address": "0x71a1eee2c5e4e8adeb9cdb0c304668da79aff6a1",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -953,7 +1076,8 @@
     "address": "0x14094f829a710075ae6a43f5c62f139049dd486f",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -961,7 +1085,8 @@
     "address": "0x110591745e4f4e36906d4628abc0dd45f064a4c6",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -969,7 +1094,8 @@
     "address": "0x810425f16407ed175a0a62ea084f83a1bc420031",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -977,7 +1103,8 @@
     "address": "0x35ae9ef4e328f1ad0332e991bcaca8e461e88fef",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -985,7 +1112,8 @@
     "address": "0x35ae9ef4e328f1ad0332e991bcaca8e461e88fef",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -993,7 +1121,8 @@
     "address": "0xdeea5c497b7557e8742f2707549e8b2f9f09594c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1001,7 +1130,8 @@
     "address": "0x9b83dce2507fb3d54a68d680c552d337a4e37e89",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1009,7 +1139,8 @@
     "address": "0x30885e07f770d5d81d770c6adb5b440fddef97cd",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1017,7 +1148,8 @@
     "address": "0xe9806473ab7639de793bdad75929fda5935a5f56",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1025,7 +1157,8 @@
     "address": "0xc75e5a8d6f5be8e7851da31e9de16b7275a45cf8"
     ,"token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1033,7 +1166,8 @@
     "address": "0x87d6100b9184d382bc438a1c261be6f3b32db71e",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1041,7 +1175,8 @@
     "address": "0x9d31efea8110375dd1184ee8a22b3bc411eb49cf",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1049,7 +1184,8 @@
     "address": "0xfbaf7519240032d8fa037b061494f76bee4530c6",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1057,7 +1193,8 @@
     "address": "0xb1b2363c0a555daa88815404419c418725d50b18",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1065,7 +1202,8 @@
     "address": "0xe3d46ca8cd8a163875f85923ee0429ee76112be5",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1073,7 +1211,8 @@
     "address": "0xb4a890fcfd936a338f703b502ccdf8892d5f6aec",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1081,7 +1220,8 @@
     "address": "0x324a59fa6e055d3424623b51874d5c7847e7d38d",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1089,7 +1229,8 @@
     "address": "0x5521950154f5e0e0e980763e5a515719b14a8eb7",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1097,7 +1238,8 @@
     "address": "0x08c42506d5ff7a983ae7be2e5a380a42508b698c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1105,7 +1247,8 @@
     "address": "0x1935f0b3b0d39e333fc2d719e1e307e2e5b3d253",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1113,7 +1256,8 @@
     "address": "0xf362dc4bb0d5bfef95d65434a7168b8ae056d8d6",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1121,7 +1265,8 @@
     "address": "0xe6f3fa003ea33962a4b71095165375bb9eb42a4c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1129,7 +1274,8 @@
     "address": "0x4d5bd4d028da1067b995ba918805197165b1a28b",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1137,7 +1283,8 @@
     "address": "0x4d5bd4d028da1067b995ba918805197165b1a28b",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1145,7 +1292,8 @@
     "address": "0x524847c615639e76fe7d0fe0b16be8c4eac9cf3c",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1153,7 +1301,8 @@
     "address": "0xc2923b8a9683556a3640ccc2961b2f52b5c4459a",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1161,7 +1310,8 @@
     "address": "0x66ddd3b7d017a769cc0c702b937c230ebd3c72d6",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1169,7 +1319,8 @@
     "address": "0xc654cc38492f75ddae2ce627dab208865c542dcc",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1177,7 +1328,8 @@
     "address": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1185,7 +1337,8 @@
     "address": "0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5",
     "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    "usd": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1193,7 +1346,8 @@
     "address": "0xb20bd5d04be54f870d5c0d3ca85d82b34b836405",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1201,7 +1355,8 @@
     "address": "0x9bd82673c50acb4a3b883d61e070a3c8d9b08e10",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1209,7 +1364,8 @@
     "address": "0xd4405f0704621dbe9d4dea60e128e0c3b26bddbd",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1217,7 +1373,8 @@
     "address": "0x231b7589426ffe1b75405526fc32ac09d44364c4",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1225,7 +1382,8 @@
     "address": "0x4a0ea6ad985f6526de7d1ade562e1007e9c5d757",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1233,7 +1391,8 @@
     "address": "0x1d1126cc2c77384448913b41fbf308563aae1f16",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1241,7 +1400,8 @@
     "address": "0xfc0dd985f6de9c2322ebd97c3422b0857c4d78c7",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1249,7 +1409,8 @@
     "address": "0x3e78f2e7dade07ea685f8612f00477fd97162f1e",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1257,7 +1418,8 @@
     "address": "0x93ffcff38010295166b4f3aa975d2c931acbd9f8",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1265,7 +1427,8 @@
     "address": "0x637b9a04c2802b1e2bb073886c531bad9a2a9fb3",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1273,7 +1436,8 @@
     "address": "0xba9a5e027d24dc433bbb0da2b28a52e148aa4fff",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1281,7 +1445,8 @@
     "address": "0x44fa3d570f1838dcf079ac7d19b8f2d23e2b889f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1289,7 +1454,8 @@
     "address": "0x92c2fc5f306405eab0ff0958f6d85d7f8892cf4d",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1297,7 +1463,8 @@
     "address": "0x672c973155c46fc264c077a41218ddc397bb7532",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1305,7 +1472,8 @@
     "address": "0x1c19fd9bd77d4383c66d9a6ecf1bc67d462c477f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1313,7 +1481,8 @@
     "address": "0x896eebeb02f81445f5a88ff7884af8d937294ee8",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1321,7 +1490,8 @@
     "address": "0x0ddcda72833e8cbc4f94c24bc7a1baf14853e76e",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1329,7 +1499,8 @@
     "address": "0x5522c339d35a6c3e5f328c8746bdf88f599dab83",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1337,7 +1508,8 @@
     "address": "0xd141c76ed0c9e4676a9c14ed1d525864c22ce894",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1345,7 +1517,8 @@
     "address": "0xea7952fac7ff6e997d895c1566599b86b91444c0",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1353,7 +1526,8 @@
     "address": "0xb805403018300c2058619fa3ea2479f8e00bb103",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1361,7 +1535,8 @@
     "address": "0xed9ca2a60d683c9ba04fd2bc043aad76a0afc59f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1369,7 +1544,8 @@
     "address": "0x17fbba7388302f835ba2ded8d18b5248d0ad3d45",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1377,7 +1553,8 @@
     "address": "0xcb57a7eac6ad4ba80e48edea2cb426d6576ab681",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1385,7 +1562,8 @@
     "address": "0x9d180c1baf1de69e9b922625284e1a2211a6ebea",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1393,7 +1571,8 @@
     "address": "0x3ba3c8fb0142a6f2bf3e2990a08957866203f961",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1401,7 +1580,8 @@
     "address": "0xeac235f217e57966f871308f5ad35008df3f0813",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1409,7 +1589,8 @@
     "address": "0x6cc77142f4da3c8e00f0c3383a648f8488ebc937",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1417,7 +1598,8 @@
     "address": "0xd1da2d5a00766cb0bf5d62b83915d666bb44cb70",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1425,7 +1607,8 @@
     "address": "0x323e054a6dd8762011d60993f51e23e2096b221f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1433,7 +1616,8 @@
     "address": "0xdb312a0952705484f3c685074f547c877eaa244b",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1441,7 +1625,8 @@
     "address": "0xc2963865fc947be4de733dd30e1d55d435eddee5",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1449,7 +1634,8 @@
     "address": "0xf00e80f0de9aea0b33aa229a4014572777e422ee",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1457,7 +1643,8 @@
     "address": "0xf3933a6a82fba8a349a7124c8d8226d7c4d7b6cb",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1465,7 +1652,8 @@
     "address": "0xbacede95494aa52ee40085037303b23069e39718",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1473,7 +1661,8 @@
     "address": "0xe98f89a2b3aecdbe2118202826478eb02434459a",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1481,7 +1670,8 @@
     "address": "0xacf7f986b39b351ae210da9886c003e01a18560c",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1489,7 +1679,8 @@
     "address": "0x45034ca0246ab238439be3b1b96b02f8fdf46645",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1497,7 +1688,8 @@
     "address": "0x896dc58182c3b78598c11aa10f940257a1ce32b1",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1505,7 +1697,8 @@
     "address": "0x2edfe4c02acb525ba512922aceae3f572fe5ea04",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1513,7 +1706,8 @@
     "address": "0x9a8ec3b061b180cf8fa3ee295c379dc9262424b3",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1521,7 +1715,8 @@
     "address": "0x675a8fa1cf8a9c3bf2c49ff14fdcaa01b11dd842",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1529,7 +1724,8 @@
     "address": "0x61e3fdf3fb5808acfd8b9cfe942c729c07b0fe21",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1537,7 +1733,8 @@
     "address": "0xda9a09ed40015346f6b0704c5bf1a2ccbf94de43",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1545,7 +1742,8 @@
     "address": "0xe6bdd6464e5e98f19eb3a6180969ca64b29011c5",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1553,7 +1751,8 @@
     "address": "0x033d3dcd03faaa8bbe40a83b3b906d42adc655f2",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1561,7 +1760,8 @@
     "address": "0x890ff7533ca0c44f33167fdeeeab1ca7e690634f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1569,7 +1769,8 @@
     "address": "0xa8216f6eb1f36e1de04d39c3bc7376d2385f3455",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1577,7 +1778,8 @@
     "address": "0x3ad690d0d3260851e09a1ca0b46ee1010ce1d099",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1585,7 +1787,8 @@
     "address": "0x079a65ee52a166e7575926a4e2ec3c7c4a7173a3",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1593,7 +1796,8 @@
     "address": "0x025d34acfd5c65cfd5a73209f99608c9e13338f3",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1601,7 +1805,8 @@
     "address": "0x0e236240c4e9a26e4e8d6d516fc2c028f6fdc3bb",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1609,7 +1814,8 @@
     "address": "0x1f3752c1a605451d8cda714140e5ce7b3bc3d62b",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1617,7 +1823,8 @@
     "address": "0x754defb8c1ed4f295d0bc23e91847d1b85acb890",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1625,7 +1832,8 @@
     "address": "0x6d4fd456edeca58cf53a8b586cd50754547dbdb2",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1633,7 +1841,8 @@
     "address": "0x033fa3759a33b2d3acf50d5166beaa1db53fb2a0",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1641,7 +1850,8 @@
     "address": "0xc8dc7a92769d055d0727a13b22d2b9b8de530a79",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1649,7 +1859,8 @@
     "address": "0x55c36404e74084a90d07ec17b18f3c56971c7c7c",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1657,7 +1868,8 @@
     "address": "0x143d8a74cadf8a3927b2926be0154739f4953422",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1665,7 +1877,8 @@
     "address": "0x141dbaa9024251a1b919bf0eddba527a45752b0e",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1673,7 +1886,8 @@
     "address": "0x8beb8c717a9a731ee87b76f260927958d4adc2d3",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1681,7 +1895,8 @@
     "address": "0x990349b4642cadd8cc118f5570123a1505868086",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1689,7 +1904,8 @@
     "address": "0x6929abd7931d0243777d3cd147fe863646a752ba",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1697,7 +1913,8 @@
     "address": "0x4a9596e5d2f9bef50e4de092ad7181ae3c40353e",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1705,7 +1922,8 @@
     "address": "0x7a99c4683b2ef82645bd9d39a80d2e7b880677eb",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1713,7 +1931,8 @@
     "address": "0x502700f282e6bfc2bb3b805893fadffacf688e7b",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1721,7 +1940,8 @@
     "address": "0x25202bde318ff6e4a34050246458968007b13530",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1729,7 +1949,8 @@
     "address": "0x3882e6c4335d3c8103af314899ead14f9e31903a",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1737,7 +1958,8 @@
     "address": "0xc21af022b75132a9b6c8f5edb72d4b9a8313cd6d",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1745,7 +1967,8 @@
     "address": "0x26b4b107dce673c00d59d71152136327cf6dfebf",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1753,7 +1976,8 @@
     "address": "0x36dfc065ae98e97502127d03f727dec74db045ba",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1761,7 +1985,8 @@
     "address": "0xe8056b83ba7daf027414b58048a48911acf1b2a9",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1769,7 +1994,8 @@
     "address": "0xffc5ec194458e0747c9c3137e0b3a3c714c838ef",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1777,7 +2003,8 @@
     "address": "0xcb3b37a738fe76080f1c28d3fc8989c90c344d0c",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1785,7 +2012,8 @@
     "address": "0xb3e325b62c0c3222c1adc16f530d5dba7a01f7ba",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1793,7 +2021,8 @@
     "address": "0x3a6694957b153a8ae7686e98796c291565a307f7",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1801,7 +2030,8 @@
     "address": "0xa061fa048f894bcfed5ec0b2c5b56d80d488833d",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1809,7 +2039,8 @@
     "address": "0x35b6f9e6300aa6c722ea189e096b0b073025806f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1817,7 +2048,8 @@
     "address": "0xfe117bc29f077153bd1f0c46e40a75ea67a20595",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1825,7 +2057,8 @@
     "address": "0xdab81982305527e0d56cbbba34dae20ed2377c1b",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1833,7 +2066,8 @@
     "address": "0x9766fb2531b9a0efa809465ff80cda678e029b46",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1841,7 +2075,8 @@
     "address": "0x615190214b61393aceaaac3fc081cab5bc431aab",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1849,7 +2084,8 @@
     "address": "0xeb5455590bb2bf67d54d7d3affaa1930c5132b14",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1857,7 +2093,8 @@
     "address": "0x0cf90b0ba4244aa02fb48184411ed7461104bdc9",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1865,7 +2102,8 @@
     "address": "0x6070eadc9026137fd54ab290fbd5f2f1ae326e4d",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1873,7 +2111,8 @@
     "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1881,7 +2120,8 @@
     "address": "0x3a06787da3507528b33fe28c2207456b6c687871",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1889,7 +2129,8 @@
     "address": "0x769af5167a6e060be22d7187e16e11304b512dda",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1897,7 +2138,8 @@
     "address": "0xabdc325419c2a84a79986c60ab7475d6c4e78b53",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1905,7 +2147,8 @@
     "address": "0xb1f746234742bf4f6ec8caf36a7b5f3100f6d1e7",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1913,7 +2156,8 @@
     "address": "0x3e9c948de4cd8ecce3d14e4a9cf9a83fdf8e5ae0",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1921,7 +2165,8 @@
     "address": "0x8e2c6b34a83931dee116bfdbaa0da5b9128c5487",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1929,7 +2174,8 @@
     "address": "0xdb9cfdbb8c5f91db1702de7a66046ef8a3c34a26",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1937,7 +2183,8 @@
     "address": "0xcff350bbe5f9834b8bd8e45909bc03b571a46693",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1945,7 +2192,8 @@
     "address": "0xada6780fd5ff42c47d75dadb98f3bd07d2e90703",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1953,7 +2201,8 @@
     "address": "0xaed149ea9fbcd0ae2223e970f00880835f0558a4",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   },
   {
     "chainId": 1,
@@ -1961,6 +2210,7 @@
     "address": "0x82703a38c707b711856b3459f59537da1ed34498",
     "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    "usd": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "__v": 0
   }
 ]
