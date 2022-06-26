@@ -1,0 +1,38 @@
+[
+  {
+    "chainId": 137,
+    "name": "SushiSwap: SushiV2Router02",
+    "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+    "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+  },
+  {
+    "chainId": 137,
+    "name": "QuickSwap: Router",
+    "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+    "factory": "0x5757371414417b8c6caad45baef941abc7d3ab32"
+  },
+  {
+    "chainId": 137,
+    "name": "Firebird Finance: OneSwap Router",
+    "router": "0x9f197f9ff460355A40B3c9A10f7d1Ca65f365b83",
+    "factory": ""
+  },
+  {
+    "chainId": 137,
+    "name": "Plasma.Finance: Router",
+    "router": "0x5D5BADeF6F69cBafDF443D6226dC00B24626367E",
+    "factory": "0x745c475cc101ca5580eff6f723976480881bc008"
+  },
+  {
+    "chainId": 137,
+    "name": "Wault Finance: WS Poly Router",
+    "router": "0x3a1D87f206D12415f5b0A33E786967680AAb4f6d",
+    "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
+  },
+  {
+    "chainId": 137,
+    "name": "Wault Finance: WS Poly Router",
+    "router": "0x3a1D87f206D12415f5b0A33E786967680AAb4f6d",
+    "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
+  }
+]
